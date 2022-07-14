@@ -1,3 +1,3 @@
 # mmd_api
 ## api for make my day app
-using firestroe
+project using firebase cloud firestore
